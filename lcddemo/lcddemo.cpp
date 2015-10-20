@@ -30,7 +30,7 @@ int main() {
 	memLcd.clearDisplay();
 	lcdWidth = memLcd.getDisplayWidth();
 	lcdHeight = memLcd.getDisplayHeight();
-	sleep(2);
+	sleep(4);
 
 	while (1) {
 	  // print sinewave
